@@ -1,2 +1,1 @@
-
-Welcome to my GitHub profile!
+https://github.com/ayush-jsrtia-ust/skills-introduction-to-github
